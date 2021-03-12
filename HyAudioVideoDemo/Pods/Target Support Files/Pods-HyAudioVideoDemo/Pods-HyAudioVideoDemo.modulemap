@@ -1,0 +1,6 @@
+framework module Pods_HyAudioVideoDemo {
+  umbrella header "Pods-HyAudioVideoDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,25 @@
+PODS:
+  - GPUImage (0.1.7)
+  - HyBaseComponents/TipView (0.0.1)
+  - HyCategoriess (1.0.0)
+
+DEPENDENCIES:
+  - GPUImage
+  - HyBaseComponents/TipView
+  - HyCategoriess
+
+SPEC REPOS:
+  https://github.com/hydreamit/Specs.git:
+    - HyBaseComponents
+  trunk:
+    - GPUImage
+    - HyCategoriess
+
+SPEC CHECKSUMS:
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  HyBaseComponents: da2e638115ea899ace63f7b8df3908506085a592
+  HyCategoriess: f5d9ee6b5f58793e950a77a31b7ad9ddb1662928
+
+PODFILE CHECKSUM: b2dd982db44a197d47f79e042c4febcb3edb88a9
+
+COCOAPODS: 1.9.3

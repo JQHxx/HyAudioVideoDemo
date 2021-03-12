@@ -1,0 +1,17 @@
+# Uncomment the next line to define a global platform for your project
+
+
+source 'https://github.com/hydreamit/Specs'
+source 'https://cdn.cocoapods.org/'
+
+platform :ios, '9.0'
+use_frameworks!
+
+target 'HyAudioVideoDemo' do
+
+    pod 'GPUImage'
+    pod 'HyCategoriess'
+    pod 'HyBaseComponents/TipView'
+
+
+end

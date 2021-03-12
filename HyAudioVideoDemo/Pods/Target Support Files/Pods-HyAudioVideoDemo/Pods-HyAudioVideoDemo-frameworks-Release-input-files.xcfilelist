@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-HyAudioVideoDemo/Pods-HyAudioVideoDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/GPUImage/GPUImage.framework
+${BUILT_PRODUCTS_DIR}/HyBaseComponents/HyBaseComponents.framework
+${BUILT_PRODUCTS_DIR}/HyCategoriess/HyCategoriess.framework
